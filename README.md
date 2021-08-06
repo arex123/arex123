@@ -1,3 +1,4 @@
+<p  align="center" ><img src="https://user-images.githubusercontent.com/65856669/128559959-59443738-e069-49fc-8679-a342d6bf9a8e.gif" width="200" height="150"/></p>
 
 <!-- 
 <h2> - 👋 Hi, I’m Aditya @arex123 </h2>
