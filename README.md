@@ -4,5 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ad47kumar@gmail.com
 
-https://media.giphy.com/media/xTiTnqEbrWfX7xA9TW/giphy.gif
+![coding-freak](https://user-images.githubusercontent.com/65856669/128559959-59443738-e069-49fc-8679-a342d6bf9a8e.gif)
+
 
