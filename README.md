@@ -14,8 +14,6 @@
 
 - 👨‍💻 Some of my projects are available at [https://arex123.github.io/Aditya.github.io/](https://arex123.github.io/Aditya.github.io/)
 
-- 💬 Ask me about **myprojects**
-
 - 📫 How to reach me **ad47kumar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
