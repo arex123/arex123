@@ -8,7 +8,7 @@
 <p>- 📫 How to reach me ad47kumar@gmail.com</p> -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"/>
 , I'm Aditya aka arex123</h1>
-<h3 align="center">A passionate coder/developer from India</h3>
+<h3 align="center"></h3>
 
 - 🌱 I’m currently learning **data structure and algorithm**
 
