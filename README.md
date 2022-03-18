@@ -6,7 +6,7 @@
 <p>- 🌱 I’m currently learning front & backend development</p>
 <p>- 💞️ I’m looking to collaborate on ...</p>
 <p>- 📫 How to reach me ad47kumar@gmail.com</p> -->
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"/>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"/>
 , I'm Aditya aka arex123</h1>
 <h3 align="center"></h3>
 
