@@ -11,7 +11,7 @@
 <h3 align="center"></h3>
 
 - 🌱 I’m currently learning **data structure and algorithm**
-- 
+
 - 👨‍💻 Some of my projects are available at [https://arex123.github.io/Aditya-portfolio/](https://arex123.github.io/Aditya-portfolio/)
 
 - 📫 How to reach me **ad47kumar@gmail.com**
