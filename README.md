@@ -1,13 +1,12 @@
-<p  align="center" ><img src="https://user-images.githubusercontent.com/65856669/128559959-59443738-e069-49fc-8679-a342d6bf9a8e.gif" width="200" height="150"/></p>
+
 
 <!-- 
-<h2> - 👋 Hello, I’m Aditya @arex123 </h2>
+<p> -  I’m Aditya @arex123 </p>
 <p>- 👀 I’m interested in </p>
 <p>- 🌱 I’m currently learning front & backend development</p>
 <p>- 💞️ I’m looking to collaborate on ...</p>
 <p>- 📫 How to reach me ad47kumar@gmail.com</p> -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"/>
-, I'm Aditya aka arex123</h1>
+<h1 align="center">Hi I'm Aditya aka arex123</h1>
 <h3 align="center"></h3>
 
 - 🌱 I’m currently learning **data structure and algorithm**
