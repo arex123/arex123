@@ -6,12 +6,15 @@
 <p>- 🌱 I’m currently learning front & backend development</p>
 <p>- 💞️ I’m looking to collaborate on ...</p>
 <p>- 📫 How to reach me ad47kumar@gmail.com</p> -->
-<h1 align="center">Hi I'm Aditya aka arex123</h1>
+<h1 align="center">Hi I'm Aditya</h1>
 <h3 align="center"></h3>
 
-- 🌱 I’m currently learning **data structure and algorithm**
+<!-- - 🌱 I’m currently learning **data structure and algorithm** -->
 
-- 👨‍💻 Some of my projects are available at [https://arex123.github.io/Aditya-portfolio/](https://arex123.github.io/Aditya-portfolio/)
+<!-- - 👨‍💻 Some of my projects are available at [https://arex123.github.io/Aditya-portfolio/](https://arex123.github.io/Aditya-portfolio/) -->
+<!-- - 👨‍💻 [https://arex123.github.io/Aditya-portfolio/](https://arex123.github.io/Aditya-portfolio/) -->
+
+- 👨‍💻 <a href="[https://www.leetcode.com/aadi207](https://arex123.github.io/Aditya-portfolio/)" target="blank"><img align="center" src="" alt="PROJECTS" height="30" width="40" /></a>
 
 - 📫 How to reach me **ad47kumar@gmail.com**
 
