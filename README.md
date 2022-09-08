@@ -1,7 +1,7 @@
 
 
 <!-- 
-<p> -  I’m Aditya @arex123 </p>
+<p> -  I’m Aditya </p>
 <p>- 👀 I’m interested in </p>
 <p>- 🌱 I’m currently learning front & backend development</p>
 <p>- 💞️ I’m looking to collaborate on ...</p>
