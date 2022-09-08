@@ -15,9 +15,14 @@
 
 - 📫 How to reach me **ad47kumar@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Profile:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aditya-434406217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-434406217/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16687503/arex123" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="https://stackoverflow.com/users/16687503/arex123" height="45" width="45" /></a>
+
+
+
+
 </p>
 
 <h3 align="left">Coding History:</h3>
