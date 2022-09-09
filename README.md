@@ -14,7 +14,7 @@
 <!-- - 👨‍💻 Some of my projects are available at [https://arex123.github.io/Aditya-portfolio/](https://arex123.github.io/Aditya-portfolio/) -->
 <!-- - 👨‍💻 [https://arex123.github.io/Aditya-portfolio/](https://arex123.github.io/Aditya-portfolio/) -->
 
-- 👨‍💻 <a href="[https://www.leetcode.com/aadi207](https://arex123.github.io/Aditya-portfolio/)" target="blank"><img align="center" src="" alt="PROJECTS" height="30" width="40" /></a>
+- 👨‍💻 <a href="https://arex123.github.io/Aditya-portfolio/" target="blank">Projects</a>
 
 - 📫 How to reach me **ad47kumar@gmail.com**
 
