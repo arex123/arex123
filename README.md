@@ -16,7 +16,7 @@
 
 <!-- - 👨‍💻 <a href="https://arex123.github.io/Aditya-portfolio/" target="blank">Projects</a> -->
 
-- 👨‍💻 <a href="https://portfolio-aditya-new.netlify.app/projects/" target="blank">Projects</a>
+- 👨‍💻 <a href="https://portfolio-aditya-new.netlify.app" target="blank">My webSite</a>
 
 - 📫 How to reach me **ad47kumar@gmail.com**
 
