@@ -5,7 +5,7 @@
 <p>- 👀 I’m interested in </p>
 <p>- 🌱 I’m currently learning front & backend development</p>
 <p>- 💞️ I’m looking to collaborate on ...</p>
-<p>- 📫 How to reach me ad47kumar@gmail.com</p> -->
+<p>- 📫 How to reach me aditya.connect0@gmail.com</p> -->
 <h1 align="center">Hi I'm Aditya</h1>
 <h3 align="center"></h3>
 
@@ -20,7 +20,7 @@
 
 - 👨‍💻 <a href="https://adityacodes.com" target="blank">adityacodes.com</a>
 
-- 📫 How to reach me **ad47kumar@gmail.com**
+- 📫 How to reach me **aditya.connect0@gmail.com**
 
 <h3 align="left">Profile:</h3>
 <p align="left">
