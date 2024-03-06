@@ -18,7 +18,7 @@
 
 <!-- - 👨‍💻 <a href="https://portfolio-aditya-new.netlify.app" target="blank">My webSite</a> -->
 
-- 👨‍💻 <a href="https://adityacodes.com" target="blank">adityacodes.com</a>
+- 👨‍💻 <a href="https://iamaditya.site" target="blank">Portfolio</a>
 
 - 📫 How to reach me **aditya.connect0@gmail.com**
 
